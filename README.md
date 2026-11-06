@@ -1,43 +1,6 @@
 <div align="center">
   <img src="https://img.icons8.com/color/120/000000/linkedin.png" alt="Logo" width="80" height="80">
   <h1 align="center">Mini-LinkedIn (HR Platform)</h1>
-  <p align="center">
-    Une plateforme Web moderne inspirée de LinkedIn, dédiée à la gestion des ressources humaines, au recrutement et au réseautage professionnel.
-    <br />
-    <br />
-    <a href="#-technologies-utilisées">Technologies</a>
-    ·
-    <a href="#-guides-et-documentation">Documentation</a>
-    ·
-    <a href="#-structure-du-projet">Architecture</a>
-  </p>
-
-  <!-- Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 17" />
-    <img src="https://img.shields.io/badge/Spring_Boot-3.1.10-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <img src="https://img.icons8.com/color/120/000000/linkedin.png" alt="Logo" width="80" height="80">
-  <h1 align="center">Mini-LinkedIn (HR Platform)</h1>
-  <p align="center">
-    Une plateforme Web moderne inspirée de LinkedIn, dédiée à la gestion des ressources humaines, au recrutement et au réseautage professionnel.
-    <br />
-    <br />
-    <a href="#-technologies-utilisées">Technologies</a>
-    ·
-    <a href="#-guides-et-documentation">Documentation</a>
-    ·
-    <a href="#-structure-du-projet">Architecture</a>
-  </p>
-
   <!-- Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java 17" />
