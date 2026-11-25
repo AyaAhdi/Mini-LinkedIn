@@ -63,14 +63,3 @@ Pour faciliter la prise en main, l'installation et la compréhension du projet, 
    Instructions détaillées étape par étape pour configurer la base de données PostgreSQL, démarrer le serveur Backend Spring Boot et lancer le serveur de développement Frontend React.
 2. 📚 **[Documentation Technique (`documentation.md`)](documentation.md)** : 
    Détails sur l'architecture du système, le modèle de données (entités), le fonctionnement de la sécurité (JWT), et un aperçu des principaux endpoints de l'API.
-
----
-
-## 🎓 Cadre du Projet
-
-Projet réalisé en équipe de 3 étudiantes dans le cadre d'un projet académique de développement d'un système moderne de gestion des ressources humaines et de réseautage professionnel.
----
-
-## 👨‍💻 Auteurs
-
-Projet développé dans le cadre de la création d'un système moderne de gestion des ressources humaines et de réseautage professionnel.
